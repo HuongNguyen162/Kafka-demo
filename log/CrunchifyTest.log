@@ -8627,3 +8627,5 @@
 2022-06-17 00:43:20 [main] INFO  AppInfoParser:117 - Kafka version: 2.5.0
 2022-06-17 00:43:20 [main] INFO  AppInfoParser:118 - Kafka commitId: 66563e712b0b9f84
 2022-06-17 00:43:20 [main] INFO  AppInfoParser:119 - Kafka startTimeMs: 1655401400470
+2022-06-17 00:50:44 [main] WARN  NetworkClient:762 - [Consumer clientId=consumer-java-group-consumer-1, groupId=java-group-consumer] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-06-17 00:50:44 [main] WARN  NetworkClient:1030 - [Consumer clientId=consumer-java-group-consumer-1, groupId=java-group-consumer] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
